@@ -1,7 +1,7 @@
 package java8.stream;
 
 import java.util.List;
-import java5.lambda.Person;
+import java8.lambda.Person;
 
 /**
  * Created with IntelliJ IDEA.
